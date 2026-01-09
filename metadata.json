@@ -1,0 +1,5 @@
+{
+  "name": "EduGenius HOTS",
+  "description": "A smart educational assistant that generates HOTS-compliant study modules and multiple-choice quizzes based on Indonesian curriculum standards. Supports text and image analysis for creating level-appropriate content (SD, SMP, SMA).",
+  "requestFramePermissions": []
+}
